@@ -11,5 +11,6 @@ void main(void){
    while(true){
       printf("Hola"); 
       .
+      printf("dinero");
    }
 }
