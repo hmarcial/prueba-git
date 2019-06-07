@@ -12,5 +12,6 @@ void main(void){
       printf("Hola"); 
       .
       printf("dinero");
+      printf("poder");
    }
 }
