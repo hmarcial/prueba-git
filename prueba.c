@@ -9,6 +9,7 @@
 #use RS232(BAUD=9600, XMIT=PIN_C6, RCV=PIN_C7, BITS=8, PARITY=N, STOP=1)
 void main(void){
    while(true){
-      printf("Hola");
+      printf("Hola"); 
+      .
    }
 }
